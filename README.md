@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Parida</h1>
 <h3 align="center">A passionate pr0grammer from India</h3>
 
-- I’m currently working on [Voice Assistant](https://github.com/Shubham-Parida01/Computer_Science_Project)
+- I’m currently working on [MySQL Study](https://github.com/Shubham-Parida01/MySQL_STUDY)
 
 - 🌱 I’m currently learning **MySQL , Python and Javascript**
 
