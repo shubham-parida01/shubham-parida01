@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shubham Parida</h1>
 <h3 align="center">A passionate pr0grammer from India</h3>
 
-- I’m currently working on [MySQL Study](https://github.com/Shubham-Parida01/MySQL_STUDY)
+- I’m currently worked on [File Sorter](https://github.com/Shubham-Parida01/File-Sorter)
 
-- 🌱 I’m currently learning **MySQL , Python and Javascript**
+- I’m currently learning **MySQL , Python and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shubham-Parida01](https://github.com/Shubham-Parida01)
+- All of my projects are available at [https://github.com/Shubham-Parida01](https://github.com/Shubham-Parida01)
 
-- 📫 How to reach me **paridashub9871@gmail.com**
+- How to reach me **paridashub9871@gmail.com**
 
-- ⚡ Fun fact about me is that , **I think i am a good programmer**
+- Fun fact about me is that , **I think i am a good programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
